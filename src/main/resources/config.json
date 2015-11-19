@@ -1,0 +1,9 @@
+{
+    "topic": "test",
+    "zk": "ambagent0:2181, ambagent1:2181",
+    "brokers": "ambagent0:6667, ambagent1:6667",
+    "numPthreads": 1,
+    "numMsgs": 10000,
+    "compression": "none",
+    "ackRequired" : false
+}
